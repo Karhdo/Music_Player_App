@@ -1,1 +1,1 @@
-<h1 align="center"> Music_Player_App</h1>
+<h1 align="center"> Music Player App</h1>
